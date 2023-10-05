@@ -1,6 +1,6 @@
 # Olá Pessoal! :love_you_gesture:
 
-Meu nome é Luciano Vieira dos Santos Júnior, mas pode me chamar de Lucius. Sou Desenvolvedor de Software Back-End e atualmente estou me especializando nessa área para avançar na minha carreira profissional.
+Meu nome é Luciano Vieira dos Santos Júnior, mas pode me chamar de Lucius. Sou Desenvolvedor de Software Back-End e atualmente estou me especializando nessa área para avançar nesta profissão.
 
 ## :point_right: Para me encontrar:
 
