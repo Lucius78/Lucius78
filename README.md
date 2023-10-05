@@ -17,4 +17,4 @@ Meu nome é Luciano Vieira dos Santos Júnior, mas pode me chamar de Lucius. Sou
 
 > Não importa o quanto você bate, mas sim o quanto aguenta apanhar e continuar. O quanto pode suportar e seguir em frente. É assim que se ganha - Rocky Balboa
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucius78&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Lucius GitHub stats](https://github-readme-stats.vercel.app/api?username=lucius78&show_icons=true&theme=radical)
